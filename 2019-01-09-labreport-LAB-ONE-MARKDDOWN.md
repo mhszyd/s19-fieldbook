@@ -1,0 +1,8 @@
+---  
+layout: post  
+title: "Markdown Lab"  
+tags: [lab report, fieldbook]  
+author: Meg Szydlik 
+---
+
+Arguably, even the act of stripping the medium down is a statement and a message. Text editors like Markdown which operate in plain text rather than rich text still have the capacity to do **interesting** things, provided the person using them knows these skils, something that we explored extensively so that we'd become reasonably proficient at the skills that make Markdown more complex than merely the words on the page. Additionally, using a plain text editor rather than something like Word or GoogleDocs says something about the creator. People who use Markdown, rather than the more popular brands, traditionally know more about computers and are interested in that "stripped down" aspect of these types of editors. In that way, the medium tells you something about where the message comes from. Additionally, the act of using a text editor on a computer in and of itself changes the audience and what can be done, something that McLuhan argues about an _electric light_. Things like access can dramatically alter who can use or read something, and not having electricity or having disabilities like blindness would seriously alter who could access something written in Markdown, or any other text editor. On the other hand, because Markdown is not chained to a particular brand or underlying code, if someone does have electricity and access to a computer, it is significantly easier to use and view plain text editors like Markdown than rich text ones like Word because it is compatible with whatever editor they have on their computer. Therefore, the medium provides the message that whoever is using it wants what they created to be accessible.
