@@ -1,0 +1,13 @@
+---  
+layout: post  
+title: "Book Week"  
+tags: [bibliographic annotation, fieldbook]  
+author: Meg Szydlik 
+---
+
+The focus this week was on the physicality and the process that formed pages, particularly during the era of rag paper. The elements that went into the creation of these pieces of paper, for books and advertisments and newspapers and everything in between, were far more complicated and in the faces of regular citizens than any information about how paper is made is for regular citizens today. The idea that paper is valuable, and that the page anything is written on is worth much on its own is foreign in contemporary times. Paper is incredibly cheap and therefore, essentially worthless. Yet we as a society place great value on what can be written on the paper, even as a blank page is essentially valueless, despite the romanticism we assign it. 
+
+Something that struck me particularly clearly in both of Jonathan Senchyne's texts I read was the capitalistic angle that he took. Like all aspects of Victorian Era, capitalism and industry reigned supreme, as did the idea that someone could make it if they just tried hard enough and were morally good. This already ridiculous idea extended to the bizarre and impossible idea that children could make enough money to be a capitalist themselves by being a rag picker. Given the desperate condition of many children and families on the streets and in the slums, the historical evidence does not bear that particular myth up at all. Senchyne does not talk about that as much as I wish he had, but the whole idea of starting from the literal bottom and working your way up was printed over and over again on the paper made from the rags that the ragpickers found and sold to the capitalists who were taking advantage of them and keeping them in the poverty they were in and there is a certain dubiously humorous irony to that.
+
+The stories about the ragpickers do, along with Melville's story, bring the labor and processes that create paper into sharp focus. The physical element of the creation is often forgotten by historians and literary critics alike. Material culture can tell so much about history and is neglected by many traditional studies. After all, paper is not just what is printed on it. It is the labor of the ragpickers, the labor of the factory workers, the labor of the printers, and the labor of so many more unsung workers. Following the trail of the material culture, rather than the written word, can reveal many other layers to culture and that is what all the articles are trying to do, to peel back the layers to see what is underneath.
+
