@@ -1,0 +1,12 @@
+---  
+layout: post  
+title: "Type and Assemblage Weeks"  
+tags: [bibliographic annotation, fieldbook]  
+author: Meg Szydlik 
+---
+
+The feminization of the industry had a significant impact on the women who participated. The development of the Victoria Press by Emily Faithfull and her desire to involve more women in the process altered what had previously been a man's world, allowing for different perspectives to appear in print. For Emily Faithfull, having a way for women to make decent pay to support themselves without depending on the kindness of men was vitally important. Instead of simply talking about it, Miss Faithfull acted to put her ideals into a practical form. Women were able to do much of the same things as men, making many of the arguments against women in the workforce fall flat, though of course it still has not disappeared completely even today. Miss Faithfull was far from the only one working in the industry, however, as Sarah Werner points out. Using one book, she shows how women were involved at every level of the printing of that book. It was written by a woman, printed by women, and bought by women. The way women were so heavily involved in this one book, speaks volumes about the way women were involved in the industry as a whole, something that is often not addresses.
+
+Change is normal and good, as evidenced by the way women entered the industry, but the industry of printing impacted more than just women and more than just the industry itself. The Cherokee man Sequoyah who created their way of writing is another way that typing and printing impacted people. Language is always part of civilization, but writing is an aspect of Western civilization and to compete with America and England and the other Western societies, indigenious poeples need to have a written language, not just a spoken one. Written language also gives a way to remember things, like the people in the reading by Gurney do by clipping newspapers and making scrapbooks. This allowed people to write their own stories in a way, by using the newspapers and magazines, along with their own scrawlings, to tell their story. Much like the women of the printing industry or the Cherokee, they were taking charge of this new form of communication for themselves and making it work for them.
+
+*Note: I just wrote this weeks bibliographic entry including Gurney to make it cleaner and easier for myself so I didn't have to do a half-assed version for next week, especially because I felt that she fit in so well with this set of readings
