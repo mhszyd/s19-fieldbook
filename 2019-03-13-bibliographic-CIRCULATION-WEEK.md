@@ -1,0 +1,10 @@
+---  
+layout: post  
+title: "Circulation Week"  
+tags: [lab report, fieldbook]  
+author: Meg Szydlik 
+---
+
+The core of this weeks readings was authorship and anonymity. Every single one of the readings touched on how these things interacted with each other, with publications, and with the public at large. The gift books, which were largely anonymously written but had very well documented, but mostly unrelated, images that accompanied the texts, were one very clear example of the way authorship was not particularly important to 19th century audiences. They were mass produced and given by men to the women they were courting, a sweeter gesture in 19th century, I'm sure, then in the 21st. Gift books were not, of course, the only place that authorship was questionable or anonymous. Newspapers and poetry books also frequently reprinted poems without attribution, or with incorrect attribution as in the case of the poem *The Children*. The credit for the poem, which belongs to a man named Dickenson, was overwhelmingly attributed to popular author Charles Dickens. 
+
+Authorship was, at best, elastic and malleable. Sometimes being anonymous was a good thing, as in the case of the Civil War poems that were often understood to be from dying soldiers. Sometimes the elasticity of authorships was a bad thing, as in Fanny Fern's legal case. Sometimes it was simply a meme, as in the question of the authorship of *Beautiful Snow*. It certainly begs the question then, how much does knowing the history of the author really help in the reading of the works? I know it doesn't change the way I experience memes, which I'd argue are the 21st century equivalent. I don't know really who created a specific meme, and honestly I rarely even care unless it's blatently racist, sexist, ableist, etc. Is that really so different than most people in the 19th century reading these reprinted, unattributed poems?

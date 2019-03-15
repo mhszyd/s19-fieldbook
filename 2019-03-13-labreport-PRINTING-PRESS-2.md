@@ -1,0 +1,12 @@
+---  
+layout: post  
+title: "Printing Press Lab 2"  
+tags: [lab report, fieldbook]  
+author: Meg Szydlik 
+---
+
+Being able to actually print on a real printing press with type I set myself was honestly a really, really cool experience. I've seen printing presses before, and I've watched them be used on TV and in person before, but I've never actually done it myself. Doing it myself, however, was a totally different experience. I'm not really a very tactile person and I never have been. The physical elements of reading a print book versus a an e-book were never particularly important to me, and in most cases I didn't even notice the differences. But the physicality of setting the type, of having to be incredibly careful and still ultimately messing up, of having to make sure the type wouldn't move when put on the press, and then of actually printing it on the press was not at all the same as the difference between writing with a pen and paper vs. typing on a computer. 
+
+More importantly, it changed the way I thought about the physical books. I own books that were printed on presses that were very similar to that one and it gave me a totally new appreciation for what that meant. I *knew* that part of the reason literacy rates were lower (though likely not as low as we think, since reading and writing being taught together is a relatively new concept and it's highly likely more people could read than we think) and people did not own books was because books were expensive. I live with a publishing student and a writing student, so I understand that a lot of work goes into writing a book from that perspective. But the physical parts of printing can not, and should not, be ignored. 
+
+Thinking then about books in the world, like the many books in the archives, or my well-loved copy of *Peter and Wendy*, then requires an understanding that they did not just pop out of nowhere and should probably involve a greater coversation as well about the workers who created these books. It's worth remembering that for a pretty good portion of history, the primary people who worked the printing presses were underaged, underpaid, overworked, and exploited boys who had nowhere else to go, and often were not able to make a real career out of this, much like workers in the cotton mills, or even interns today. The hard physical labor that they did, that I can now in some small way understand, makes books from this period all the more valuable and interesting.
