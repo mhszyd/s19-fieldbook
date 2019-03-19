@@ -1,0 +1,12 @@
+---  
+layout: post  
+title: "Coding Lab #1"  
+tags: [lab report, fieldbook]  
+author: Meg Szydlik 
+---
+
+I confess I've never really coded before, so even this basic coding was a new and fascinating experience for me, and one I'd like to expand on on my own time over the summer. I did also find it interesting what we were learning it for though. Bots that combine different elements to create something new and exciting, and sometimes nonsensical, can take fragments and make them into something entirely different. That's not a new concept, of course. People have been reusing and appropriating texts for themselves since texts sprung into existence and internet meme culture just makes that a stronger cultural, in your face presence than perhaps it used to be.
+
+Taking texts and making them your own, in funny ways or more serious was, is an important part of this week's lab. Exploring the ways that randomization and how playing with words and structures was definitely helpful in thinking about the framing of the original poem and how that matters. Though obviously the words and the structure matter, it was interesting too to consider the many different contexts people may have read the poem in, and why they specifically connected with it. I know for me, cadence is as important as the words themselves and so poems- or songs- with certain rhythms are often very annoying to me and I don't like them. *The Raven* has a good cadence, so even with the ridiculous words in place of the real ones, it still *feels* right to me. 
+
+The creation of these kinds of bots and memes, which require a knowledge of cultural touchstones but also like to flip the expected on its head, is a fundamentally human thing I think. Things like memes on the internet simply make specific examples more widely accessible to a large group of people than they would be otherwise. Without the base knowledge, in this case of the poem *The Raven* but in other cases of TV shows or news articles, the joke falls apart. Knowing the joke, being aware enough of the culture to converse within it, then means you can break it and put it together in many different ways and have it still be funny, or meaningful, provided you understand the original premise.
